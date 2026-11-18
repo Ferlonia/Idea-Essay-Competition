@@ -1,6 +1,6 @@
 # Idea Essay Skills for Claude
 
-Claude skills that help students write idea-based scientific essays in English
+Claude skills that help students write idea-based scientific essays in English.
 
 | Skill | Language of the instructions | Folder |
 |---|---|---|
